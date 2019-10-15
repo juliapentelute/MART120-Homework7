@@ -1,0 +1,16 @@
+span{
+    color:white;
+    text-align: center -color:grey;
+    text-decoration: line-through
+      
+}
+.newColor{
+        color:yellow;
+        font-family:cursive;
+        font-size:45px;
+    }
+    #specificLink{
+        color:red;
+        font-family:arial;
+        font-size:28px;
+    }
